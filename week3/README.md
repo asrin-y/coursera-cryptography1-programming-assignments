@@ -15,3 +15,5 @@ In this project we will be using SHA256 as the hash function.  For an implementa
 When appending the hash value to each block, please append it as binary data, that is, as 32 unencoded bytes (which is 256 bits).  If the file size is not a multiple of 1KB then the very last block will be shorter than 1KB, but all other blocks will be exactly 1KB.
 
 Your task is to write code to compute the hash h0 of a given file F and to verify blocks of F as they are received by the client. 
+
+[Link to get assignment video](https://crypto.stanford.edu/~dabo/onlineCrypto/6.1.intro.mp4_download)
